@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Booking Cuci Motor</string>
+    <string name="list_name">Nama List</string>
+    <string name="price">Harga</string>
+    <string name="description_list">Deskripsi</string>
+    <string name="description_image">Image Name</string>
+    <string name="sample_name">Cuci Motor</string>
+    <string name="sample_price">Rp 25.000</string>
+    <string name="sample_description">Proses cuci cepat dan bersih dalam waktu 15 menit.</string>
+    <string name="button_order_now">Pesan Sekarang</string>
+    <string name="detail_page">Detail</string>
+    <string name="about_page">About</string>
+
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_prompt">Belum punya akun? Daftar di sini</string>
+    <string name="name_about">Nama</string>
+    <string name="email_about">Email</string>
+
+    <string-array name="data_img_booking">
+        <item>@drawable/cuci_motor</item>
+        <item>@drawable/cuci_motor1</item>
+        <item>@drawable/cuci_motor_wax</item>
+        <item>@drawable/cuci_motor_mesin</item>
+        <item>@drawable/cuci_motor6</item>
+        <item>@drawable/cuci_motor4</item>
+        <item>@drawable/cuci_motor5</item>
+        <item>@drawable/cuci_motor7</item>
+        <item>@drawable/cuci_motor3</item>
+        <item>@drawable/cuci_motor_sport</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Cuci Motor Reguler</item>
+        <item>Cuci Motor Kilap</item>
+        <item>Cuci + Wax</item>
+        <item>Cuci Mesin</item>
+        <item>Cuci Motor Salju</item>
+        <item>Paket Hemat</item>
+        <item>Paket Premium</item>
+        <item>Layanan Jemput Motor</item>
+        <item>Cuci Motor Khusus Matic</item>
+        <item>Cuci Motor Khusus Sport</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pembersihan motor standar meliputi pencucian bodi motor, roda, serta bagian bawah motor untuk menghilangkan kotoran dan debu. Pembersihan dilakukan dengan menggunakan bahan pembersih yang ramah lingkungan untuk menjaga kualitas cat dan kelancaran mesin motor.</item>
+        <item>Pembersihan motor dengan tambahan poles yang memberikan hasil akhir mengkilap, memberikan perlindungan terhadap cat motor dari goresan halus. Proses ini juga membantu mencegah timbulnya jamur dan noda pada permukaan motor.</item>
+        <item>Paket cuci motor lengkap yang mencakup pencucian bodi, roda, serta tambahan wax untuk memberikan lapisan pelindung pada cat motor. Wax berfungsi untuk melindungi motor dari debu, air hujan, dan kotoran lainnya, menjaga motor tetap bersih dan mengkilap lebih lama.</item>
+        <item>Pembersihan menyeluruh pada bagian mesin motor dengan fokus pada komponen-komponen mesin yang rentan terkena kotoran dan minyak. Proses ini membantu meningkatkan performa mesin motor dan memperpanjang umur pakai mesin tersebut.</item>
+        <item>Cuci motor menggunakan busa salju berkualitas tinggi yang dapat mengangkat kotoran dengan lembut tanpa merusak permukaan motor. Layanan ini memberikan sensasi berbeda dengan penggunaan bahan pembersih bertekstur lembut yang aman untuk cat dan roda motor.</item>
+        <item>Paket hemat cuci motor dengan harga terjangkau, namun tetap menjaga kualitas pembersihan. Layanan ini memberikan kemudahan bagi pelanggan yang ingin menjaga kebersihan motor dengan budget terbatas, mencakup pencucian bodi dan roda motor secara efisien.</item>
+        <item>Paket premium meliputi cuci motor lengkap dengan tambahan poles dan wax untuk hasil yang lebih bersih, mengkilap, dan terlindungi. Layanan premium ini memberikan perhatian ekstra untuk setiap detail motor agar tampak seperti baru kembali.</item>
+        <item>Layanan antar jemput motor untuk dicuci, memberikan kenyamanan bagi pelanggan yang tidak memiliki waktu untuk datang ke tempat cuci motor. Layanan ini mencakup pengambilan motor di lokasi yang ditentukan, pencucian, dan pengembalian motor dalam kondisi bersih dan terawat.</item>
+        <item>Layanan khusus untuk motor matic yang melibatkan perhatian lebih pada bagian CVT dan mesin motor matic. Pembersihan dilakukan dengan teknik khusus untuk memastikan motor matic tetap optimal dalam performa dan kenyamanan berkendara.</item>
+        <item>Layanan khusus untuk motor sport yang memberikan perhatian lebih pada bagian-bagian yang membutuhkan perawatan ekstra, seperti roda besar dan body motor. Pembersihan dilakukan dengan metode yang lebih teliti untuk menghasilkan tampilan motor sport yang mengkilap dan terawat dengan maksimal.</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp 20.000</item>
+        <item>Rp 35.000</item>
+        <item>Rp 50.000</item>
+        <item>Rp 45.000</item>
+        <item>Rp 40.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 60.000</item>
+        <item>Rp 25.000</item>
+        <item>Rp 20.000</item>
+        <item>Rp 60.000</item>
+    </string-array>
+</resources>
